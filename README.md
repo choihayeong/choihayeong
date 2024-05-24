@@ -4,6 +4,8 @@
 
 - [Prettier Setting](https://github.com/choihayeong/choihayeong/wiki/Prettier-Setting)
 
+- [Initializing git repository](https://github.com/choihayeong/choihayeong/wiki/initializing-git-repository)
+
 
 <!--
 **choihayeong/choihayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
