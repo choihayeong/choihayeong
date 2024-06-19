@@ -6,6 +6,8 @@
 
 - [Initializing git repository](https://github.com/choihayeong/choihayeong/wiki/initializing-git-repository)
 
+- [Setting SVN repo](https://github.com/choihayeong/choihayeong/wiki/Setting-SVN-repo)
+
 
 <!--
 **choihayeong/choihayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
