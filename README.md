@@ -7,6 +7,8 @@
 - [알아두면 유용한 git 명령어 정리(git command cheat sheet)](https://github.com/choihayeong/choihayeong/wiki/git-command-cheat-sheet)
   * [저장소 초기 세팅(Initializing git repository)](https://github.com/choihayeong/choihayeong/wiki/initializing-git-repository)
 
+- [Copilot in VS Code](https://github.com/choihayeong/choihayeong/wiki/%5Bwip%5D-Copilot-in-VS-Code)
+
 - [github이 있기 전 사용하던 형상관리 svn(Setting SVN repo)](https://github.com/choihayeong/choihayeong/wiki/Setting-SVN-repo)
 
 
